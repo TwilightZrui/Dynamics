@@ -4,5 +4,6 @@ pinicchio/examples
 pinicchio/build
 rbdl/rbdl
 rbdl/build
+OMPL/core_planning_tutorial
 
 
