@@ -6,6 +6,6 @@
  * @Institute    : CSE ZJU
 -->
 
-[https://theairlab.org/summer2020/](https://theairlab.org/summer2020/)
-
-<https://bitbucket.org/castacks/core_planning_tutorial/src/master/>
+* [vedio summer2020 OMPL tutorial](https://theairlab.org/summer2020/)
+* [code core_planning_tutorial](https://bitbucket.org/castacks/core_planning_tutorial/src/master/)
+* [OMPL Official](https://ompl.kavrakilab.org/planners.html)
